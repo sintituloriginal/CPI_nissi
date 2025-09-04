@@ -1,14 +1,14 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: "MY NAME IS Jessica Alba"
-  title : "I am a creative <br>UI/UX Designer <br>from London."
+  subtitle: "PAGINA DE PRUEBA"
+  title : "Ingresa al sitio web reservo."
   content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-  image : "/assets/images/banner/banner-img-2.png"
+  # image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
-    label : "contact me"
-    link : "/contact"
+    label : "Reservo"
+    link : "https://reservo.cl/cl/"
 
 ########################### Service ##############################
 services:
