@@ -3,7 +3,7 @@
 
   .navbar-nav .nav-link {
     text-transform: uppercase;
-    color: $white;
+    color: $brown;
     font-size: 16px;
     padding-right: 20px;
     padding-left: 35px;
@@ -26,7 +26,7 @@
 }
 
 .nav-top {
-  background: $secondary-color;
+  background: $secondary-header;
   transition: .0s all ease;
   z-index: 99999;
 }

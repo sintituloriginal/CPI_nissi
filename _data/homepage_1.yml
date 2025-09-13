@@ -1,27 +1,26 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: "PAGINA DE PRUEBA"
-  title : "Ingresa al sitio web reservo."
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-  # image : "/assets/images/banner/banner-img-2.png"
+  subtitle: "AGENDA TU HORA"
+  title : "Ingresa desde aqui para agendar."
+  image : "/assets/images/banner/banner-nissi.png"
   button:
     enable : true
-    label : "Reservo"
+    label : "Agendar"
     link : "https://reservo.cl/cl/"
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Agenda telefónica"
+  icon : "ti-mobile"
+  content : "Llámanos para agendar tu hora de examenes. Debes tener una orden médica para facilitar la reserva."
 
-- title : "Seo & Marketing"
-  icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Escríbenos"
+  icon : "ti-notepad"
+  content : "Puedes contactarnos a través de WhatsApp para aclarar tus dudas respecto a la forma de agendar y realizar exámenes."
 
-- title : "Creative Design"
-  icon : "ti-palette"
+- title : "Horario de atención"
+  icon : "ti-alarm-clock"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
 
